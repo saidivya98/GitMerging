@@ -7,4 +7,8 @@ class Calci{
 		//created in feature1 branch
 		return a-b;
 	}
+	public int multi(int a, int b){
+		//created in feature1 branch
+		return a*b;
+	}
 }
