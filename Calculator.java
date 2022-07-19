@@ -11,4 +11,8 @@ class Calci{
 		//created in feature1 branch
 		return a*b;
 	}
+	public int div(int a, int b){
+		//created in feature-A branch
+		return a/b;
+	}
 }
